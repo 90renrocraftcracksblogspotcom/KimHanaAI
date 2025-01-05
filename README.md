@@ -1,4 +1,4 @@
-# Kim Hana - Emotional Interaction System
+# Kim Hana - v1.0
 
 Welcome to the **Kim Hana** Bot With Emotional Interaction System! This project aims to create a dynamic, emotionally aware AI character with realistic human-like behavior, incorporating advanced emotional feedback, adaptive reactions, and self-learning mechanisms. By interacting with Kim Hana, users can shape and evolve their relationship with her through carefully crafted emotional and behavioral responses.
 
